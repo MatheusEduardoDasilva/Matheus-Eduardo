@@ -13,7 +13,7 @@
  <ul type="none">
  <li> a) Matheus Eduardo da Silva;</li> 
  <li> b) Java Script;</li> 
- <li> c)  No github minha experiência com ele ainda é muito nova;</li> 
+ <li> c) No github, minha experiência com ele ainda é muito nova;</li> 
  <li> d) 4;</li> 
  <li> e) Acho que deveria ter mais alguns testes;</li> 
 </ul >
